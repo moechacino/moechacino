@@ -13,6 +13,6 @@ I am a dedicated student deeply passionate about software development, and I spe
 <a href="https://expressjs.com/"><img align="left" title="Express" width="21px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" /></a>
 </br>
 ### My Projects
-[] Front-end : [store](www.google.com)
-[] Back-end : [task](www.facebook.com)
-[] Others: 
+ - [ ] Front-end : [store](www.google.com) 
+ - [ ] Back-end : [task](www.facebook.com) 
+ - [ ] Others :
