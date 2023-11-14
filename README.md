@@ -11,8 +11,7 @@ I am a dedicated student deeply passionate about software development, and I spe
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://expressjs.com/"><img align="left" title="Express" width="21px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" /></a>
-
------------------------------------------------------
+</br>
 ### My Projects
 [] Front-end : [store](www.google.com)
 [] Back-end : [task](www.facebook.com)
