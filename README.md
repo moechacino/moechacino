@@ -15,5 +15,5 @@ I am a dedicated student deeply passionate about software development, and I spe
 
 ### My Projects
  - [ ] Front-end : [game-store](https://github.com/moechacino/game-store)  ,  [job-vacancy](https://github.com/moechacino/job-vacancy)>[deployed](https://magical-longma-b8ab0c.netlify.app)
- - [ ] Back-end : [store-api](https://github.com/moechacino/store-api)  ,  [task-manager](https://github.com/moechacino/task-manager)
+ - [ ] Back-end : [store-api](https://github.com/moechacino/store-api)  ,  [task-manager](https://github.com/moechacino/task-manager), [dashboard-api](https://github.com/moechacino/detectiondashboard-api)
  - [ ] Others :
