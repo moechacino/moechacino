@@ -18,7 +18,6 @@ I am a dedicated student deeply passionate about software development, and I spe
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" /></a>
   <a href="#"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
   <a href="#"><img align="left" alt="Redis" title="Redis" width="21px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" /></a>
-  <a href="#"><img align="left" alt="Redis" title="Redis" width="21px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" /></a>
   <a href="#"><img align="left" alt="Kafka" title="Kafka" width="21px" src="https://cdn.worldvectorlogo.com/logos/kafka.svg" /></a>
 
 
