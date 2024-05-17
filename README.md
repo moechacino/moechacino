@@ -28,3 +28,6 @@ I am a dedicated student deeply passionate about software development, and I spe
  - [ ] Front-end : [game-store](https://github.com/moechacino/game-store)  ,  [job-vacancy](https://github.com/moechacino/job-vacancy)>[deployed](https://magical-longma-b8ab0c.netlify.app)
  - [ ] Back-end : [kerjapraktik-api](https://github.com/moechacino/kerjapraktikmbkm-api) | [heroku](https://kerjapraktikmbkm-api-92c8d2fa6242.herokuapp.com/),  [dashboard-api](https://github.com/moechacino/detectiondashboard-api), [store-api](https://github.com/moechacino/store-api)  ,  [task-manager](https://github.com/moechacino/task-manager), 
  - [ ] Others :
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moechacino&show_icons=true&locale=en&layout=compact" alt="moechacino" /></p>
