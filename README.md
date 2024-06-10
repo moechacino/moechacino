@@ -11,7 +11,6 @@ I am a dedicated student deeply passionate about software development, and I spe
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
        <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
     <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-       <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
     <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://www.php.net//images/logos/new-php-logo.svg" /></a>
     <a href="https://expressjs.com/"><img align="left" title="Express" width="21px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" /></a>
     <a href="#"><img align="left" title="Fastify" width="21px" src="https://cdn.worldvectorlogo.com/logos/fastify.svg" /></a>
