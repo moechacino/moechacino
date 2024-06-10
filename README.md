@@ -30,4 +30,4 @@ I am a dedicated student deeply passionate about software development, and I spe
  - [ ] Others :
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moechacino&show_icons=true&locale=en&layout=compact" alt="moechacino" /></p>
+
