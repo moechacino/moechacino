@@ -23,7 +23,7 @@ I am a dedicated student deeply passionate about software development, and I spe
 
 
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moechacino&show_icons=true&locale=en&layout=compact" /></p>
+
 
 ### My Projects
  - [ ] Front-end : [game-store](https://github.com/moechacino/game-store)  ,  [job-vacancy](https://github.com/moechacino/job-vacancy)>[deployed](https://magical-longma-b8ab0c.netlify.app)
@@ -31,4 +31,4 @@ I am a dedicated student deeply passionate about software development, and I spe
  - [ ] Others :
 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moechacino" alt="langMoe" /></p>
