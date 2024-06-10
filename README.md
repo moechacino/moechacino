@@ -22,7 +22,7 @@ I am a dedicated student deeply passionate about software development, and I spe
   <a href="#"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
   <a href="#"><img align="left" alt="Redis" title="Redis" width="21px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" /></a>
   <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
-  <a href="#"><img align="left" alt="Solidity" title="Solidity" width="21px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" /></a>
+  <a href="#"><img align="left" alt="Solidity" title="Solidity" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/solidity.svg" /></a>
   <a href="#"><img align="left" alt="Truffle" title="Trufflesuite" width="21px" src="https://archive.trufflesuite.com/img/truffle-logo-light.svg" /></a>
   <a href="#"><img align="left" alt="Ganache" title="Ganache" width="21px" src="https://archive.trufflesuite.com/img/ganache-logo-dark.svg" /></a>
 
