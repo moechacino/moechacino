@@ -6,7 +6,7 @@ I am a dedicated student deeply passionate about software development, and I spe
 - 📫 How to reach me: lanaksa28@gmail.com
 - ⚡ Fun fact: #ktbffh
 
-### Visit My Portfolio Here [www.moechacino.my.id](https://moe-portfolio-gold.vercel.app)
+### Visit My Portfolio Here [www.moechacino.my.id](https://moe-portfolio-gold.vercel.app/projects)
 
 ### Tech Stack
 
