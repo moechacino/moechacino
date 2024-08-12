@@ -1,3 +1,6 @@
+### Visit My Personal Website Here :
+# [www.moechacino.my.id](https://www.moechacino.my.id/projects)
+
 ### Hi there 👋
 
 I am a dedicated student deeply passionate about software development, and I specialize in using JavaScript and TypeScript as my primary programming language. Through hands-on experiences and continuous learning, I am committed to honing my skills in the dynamic field of software development.
@@ -6,7 +9,6 @@ I am a dedicated student deeply passionate about software development, and I spe
 - 📫 How to reach me: lanaksa28@gmail.com
 - ⚡ Fun fact: #ktbffh
 
-### Visit My Website Here [www.moechacino.my.id](https://www.moechacino.my.id/projects)
 
 ### Tech Stack
 
