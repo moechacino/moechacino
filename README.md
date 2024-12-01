@@ -1,13 +1,8 @@
 ### Visit My Personal Website Here :
 # [www.lanaksa.me](https://www.lanaksa.me/projects)
 
-### Hi there 👋
-
-I am a dedicated student deeply passionate about software development, and I specialize in using JavaScript and TypeScript as my primary programming language. Through hands-on experiences and continuous learning, I am committed to honing my skills in the dynamic field of software development.
-- 🔭 I’m currently studying at Politeknik Elektronika Negeri Surabaya, majoring in Internet Engineering Technology.
-- 🌱  I’m currently learning about software development
-- 📫 How to reach me: lanaksa28@gmail.com
-- ⚡ Fun fact: #ktbffh
+slow living.
+i am just a chill guy
 
 
 ### Tech Stack
